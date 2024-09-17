@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/profile-generater/static/css/main.1f356b8f.css",
-    "main.js": "/profile-generater/static/js/main.ddbc8d00.js",
+    "main.js": "/profile-generater/static/js/main.6852d3a7.js",
     "static/media/WIRC.png": "/profile-generater/static/media/WIRC.b6629b7eb635388c052f.png",
     "index.html": "/profile-generater/index.html",
     "main.1f356b8f.css.map": "/profile-generater/static/css/main.1f356b8f.css.map",
-    "main.ddbc8d00.js.map": "/profile-generater/static/js/main.ddbc8d00.js.map"
+    "main.6852d3a7.js.map": "/profile-generater/static/js/main.6852d3a7.js.map"
   },
   "entrypoints": [
     "static/css/main.1f356b8f.css",
-    "static/js/main.ddbc8d00.js"
+    "static/js/main.6852d3a7.js"
   ]
 }

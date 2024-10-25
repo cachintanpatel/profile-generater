@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/profile-generater/static/css/main.1f356b8f.css",
-    "main.js": "/profile-generater/static/js/main.209053f3.js",
-    "static/media/image2.png": "/profile-generater/static/media/image2.3906c34c633dd1597670.png",
-    "static/media/image1.png": "/profile-generater/static/media/image1.a514049d883564f89f1b.png",
-    "static/media/Generated Image.png": "/profile-generater/static/media/Generated Image.cf1507a180cda8b33a41.png",
-    "static/media/WIRC.png": "/profile-generater/static/media/WIRC.b6629b7eb635388c052f.png",
-    "static/media/image3.png": "/profile-generater/static/media/image3.45c3168fa2098c0f0966.png",
+    "main.js": "/profile-generater/static/js/main.a87ef9ea.js",
+    "static/media/image2.png": "/profile-generater/static/media/image2.e61fe32cd1eb7788466c.png",
+    "static/media/image1.png": "/profile-generater/static/media/image1.869b5d87027f2d8e3ef1.png",
+    "static/media/Generated Image.png": "/profile-generater/static/media/Generated Image.d22395735e363946ec02.png",
+    "static/media/WIRC.png": "/profile-generater/static/media/WIRC.8bf5f0a2c823fc66deed.png",
+    "static/media/image3.png": "/profile-generater/static/media/image3.bbee3449b6d0569f8f96.png",
     "index.html": "/profile-generater/index.html",
     "main.1f356b8f.css.map": "/profile-generater/static/css/main.1f356b8f.css.map",
-    "main.209053f3.js.map": "/profile-generater/static/js/main.209053f3.js.map"
+    "main.a87ef9ea.js.map": "/profile-generater/static/js/main.a87ef9ea.js.map"
   },
   "entrypoints": [
     "static/css/main.1f356b8f.css",
-    "static/js/main.209053f3.js"
+    "static/js/main.a87ef9ea.js"
   ]
 }
